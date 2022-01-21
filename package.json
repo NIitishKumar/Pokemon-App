@@ -3,6 +3,9 @@
   "name": "pokemon",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.13.1"
+  },
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.16",
     "@testing-library/jest-dom": "^5.11.4",
